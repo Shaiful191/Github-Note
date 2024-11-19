@@ -2,7 +2,8 @@
 A distributed version control system for tracking changes in computer files.
 Coordinates work between multiple developers.
 
-![git working process](https://github.com/user-attachments/assets/91fb841c-6986-4043-bfdc-b78f8bc1adf1)
+![image](https://github.com/user-attachments/assets/f93cb080-7e06-4dd1-901b-480f2eea556b)
+
 
 
 ## Initialized empty Git repository:
